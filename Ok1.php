@@ -1,12 +1,3 @@
-
- 
-@AkunTerhapus
-AkunTerhapus Add files via upload
-Latest commit f573c50 11 hours ago  History
-  1 contributor
-107 lines (107 sloc) 5.14 KB
-Raw Blame
- 
 <?php
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
